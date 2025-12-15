@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/EMNLP_2024-555-red.svg)](https://aclanthology.org/2024.emnlp-main.555/)
 [![arXiv](https://img.shields.io/badge/arXiv-2408.04872-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2408.04872)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache)](LICENSE)
 
 Source code of our EMNLP 2024 (Main) paper **SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**.
 
