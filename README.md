@@ -48,7 +48,7 @@ sh run.sh
 ![SCOI](diagram.svg)
 
 ## Citation
-If you find our work useful for your research, please cite our paper:
+If you find our work helpful, feel free to cite our paper:
 ```
 @inproceedings{tang-etal-2024-scoi,
     title = "{SCOI}: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation",
